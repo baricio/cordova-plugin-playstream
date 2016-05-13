@@ -9,7 +9,7 @@ This plugin paly streaming audios into AAC+ and MP4 streamings using aacdecoder-
 
 ## Installation
 
-    cordova plugin add cordova-plugin-playstream
+    cordova plugin add PlayStream
 
     // you may also install directly from this repo
     cordova plugin add https://github.com/baricio/cordova-plugin-playstream.git

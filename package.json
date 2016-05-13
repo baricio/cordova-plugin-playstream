@@ -1,0 +1,31 @@
+{
+  "name": "PlayStream",
+  "version": "0.2.13",
+  "description": "This plugin paly streaming audios into AAC+ and MP4 streamings using aacdecoder-android.",
+  "cordova": {
+    "id": "com.baricio.playstream",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baricio/cordova-plugin-playstream.git"
+  },
+  "keywords": [
+    "cordova",
+    "AAC+",
+    "Streaming",
+    "Audio",
+    "Player",
+    "Icecast",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "baricio",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/baricio/cordova-plugin-playstream/issues"
+  },
+  "homepage": "https://github.com/baricio/cordova-plugin-playstream#readme"
+}

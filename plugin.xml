@@ -2,11 +2,11 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.baricio.playstream"
-    version="0.2.11">
+    version="0.2.13">
     <name>PlayStream</name>
-    <description>The coolest Plugin ever implemented</description>
+    <description>This plugin paly streaming audios into AAC+ and MP4 streamings using aacdecoder-android.</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,coolest</keywords>
+    <keywords>cordova,AAC+,Streaming,Audio,Player,Icecast</keywords>
     <repo></repo>
     <issue></issue>
     <js-module src="www/PlayStream.js" name="PlayStream">
